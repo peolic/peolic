@@ -10,6 +10,8 @@
   This userscript converts dates to YYYY-MM-DD and provides a filter for the studios search page on iafd.com
 * [**ManyVids Release Year Userscript**](https://gist.github.com/peolic/09dc7e0cebe6cb57babcec404bd37a3f)  
   This userscript adds the year to partial video release dates on manyvids.com
+* [**Brazzers Sub-Studio Userscript**](https://gist.github.com/peolic/6f5cfc69251e36c755c2948d82529460)  
+  This userscript adds the sub-studio of a Brazzers scene to the video page.
 
 ##### Unused/Disabled
 * [~~**StashDB Titles Userscript**~~](https://gist.github.com/peolic/c38aa4792a668b635e7d99476e3433bb)  
